@@ -95,7 +95,7 @@ body.light .attribution, body.light .attribution a{
 
 /* ========== Header =========== */
 .top-container{
-    min-height: 30vh;
+ 
     background-color: var(--Very-Dark-Blue-Top-Bg);
     position: relative;
 }
@@ -202,13 +202,7 @@ body.light .attribution, body.light .attribution a{
 
 /* ========== Banner =========== */
 
-.banner-container{
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin-top: -130px;
 
-}
 
 .banner{
   display: grid;
@@ -364,18 +358,16 @@ h1.light{
 }
 /* ========== Overview  END =========== */
 
-
-
 .attribution{
   margin-top: 40px;
   text-align: center;
-  color: var(--White)
+  color: var(--White);
+  font-family: var(--Inter);
 }
 
 .attribution a{
   color: white;
 }
-
 
 
 
@@ -401,9 +393,7 @@ h1.light{
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .banner-container{
-    margin-top: -120px;
-  }
+  
 }
 
 
