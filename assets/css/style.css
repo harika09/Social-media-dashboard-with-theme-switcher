@@ -73,7 +73,9 @@ body.light h1{
   color: var(--Very-Dark-Blue)
 }
 
-
+body.light .attribution, body.light .attribution a{
+  color: var(--Very-Dark-Blue);
+}
 
 /* ========== LightMode END ========== */
 
@@ -363,6 +365,16 @@ h1.light{
 /* ========== Overview  END =========== */
 
 
+
+.attribution{
+  margin-top: 40px;
+  text-align: center;
+  color: var(--White)
+}
+
+.attribution a{
+  color: white;
+}
 
 
 
