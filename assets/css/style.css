@@ -125,7 +125,7 @@ body.light h1{
 }
 .header-switcher h3{
   margin-right: 20px;
-  top: 5px;
+  padding-top: 5px;
   color: var(--Desaturated-Blue);
 }
 
