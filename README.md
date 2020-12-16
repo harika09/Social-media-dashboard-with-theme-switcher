@@ -6,7 +6,7 @@ Link: https://social-media-dashboards.netlify.app/
 
 # Frontend Mentor - Social media dashboard with theme switcher
 
-![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social media dashboard with theme switcher coding challenge](./assets/img/desktop-preview.jpg)
 
 ## Welcome! 👋
 
